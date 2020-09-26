@@ -4,7 +4,7 @@ Colorado School of Mines
 
 Author: Soraya Terrab
 
-Code for coursework for DG Methods class taught by Dr. Jennifer Ryan
+Code and Reports for coursework for DG Methods class taught by Dr. Jennifer Ryan
 
 
 
